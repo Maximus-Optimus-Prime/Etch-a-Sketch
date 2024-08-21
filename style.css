@@ -15,8 +15,3 @@
     border: 1px solid black;
     aspect-ratio: 1 / 1;
 }
-
-.flexItem:hover {
-    background-color: yellow;
-    color: black;
-}
